@@ -1,0 +1,28 @@
+{
+  "name": "tarea-clase11",
+  "version": "1.0.0",
+  "description": "implementacion de cypress en la tarea 8",
+  "main": "index.html",
+  "scripts": {
+    "servidor": "http-server",
+    "cypress-run": "cypress run",
+    "cypress-dev": "cypress open",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Kruskalt/tarea-clase11.git"
+  },
+  "author": "nazareno",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Kruskalt/tarea-clase11/issues"
+  },
+  "homepage": "https://github.com/Kruskalt/tarea-clase11#readme",
+  "dependencies": {
+    "bootstrap": "^5.3.2"
+  },
+  "devDependencies": {
+    "cypress": "^13.6.1"
+  }
+}
